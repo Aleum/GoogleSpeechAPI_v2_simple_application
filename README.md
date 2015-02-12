@@ -5,6 +5,7 @@ I hope you'll be happy to use
 1. WAVE file : sampling by 16000Hz and 10~15 seconds long
 2. Google API Key
 3. Visual Studio 2010
+4. curl libraries
 
 ##operation
 It makes file named "result.txt".<br />
