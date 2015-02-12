@@ -10,7 +10,7 @@ I hope you'll be happy to use
 ##operation
 It makes file named "result.txt".<br />
 This file have results of Google Speech API formed JSON.<br />
-I set encoding to 'UTR-8'
+I set encoding to 'UTF-8'
 <br />
 
 ##developer comments
