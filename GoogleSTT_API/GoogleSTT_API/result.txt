@@ -1,0 +1,2 @@
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"안녕 넣어야"},{"transcript":"안녕 나오냐"},{"transcript":"안녕 나오면"},{"transcript":"안녕 넣어요"},{"transcript":"안녕 넣어 야"}],"final":true}],"result_index":0}
